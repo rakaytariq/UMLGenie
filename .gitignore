@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pth
+
+# Environment
+venv/
+.env
+
+# Data & Outputs
+outputs/
+*.png
+*.pth
+data/processed/
+data/processed_dsl/
+data/vocab/
+*.jsonl
+
+# VSCode
+.vscode/
